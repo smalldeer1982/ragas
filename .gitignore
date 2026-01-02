@@ -174,7 +174,6 @@ _experiments/
 src/ragas/_version.py
 experimental/ragas_experimental/_version.py
 examples/ragas_examples/_version.py
-.vscode
 .envrc
 uv.lock
 .cache/
@@ -203,3 +202,5 @@ text2sql_logs
 mlartifacts
 mlflow.db
 plan
+temp_auto_push.bat
+temp_interactive_push.bat
